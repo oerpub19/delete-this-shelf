@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>another new book</dc:title>
   </metadata>
-  <manifest><item href="another-new-book-2680fb45-cdaf-44ba-ba1f-97af78bc202c-nav.html" id="another-new-book-2680fb45-cdaf-44ba-ba1f-97af78bc202c-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-de1784b4-54ed-409d-928f-a00cf81187ca.html" id="module1-de1784b4-54ed-409d-928f-a00cf81187ca.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <manifest><item href="another-new-book-2680fb45-cdaf-44ba-ba1f-97af78bc202c-nav.html" id="another-new-book-2680fb45-cdaf-44ba-ba1f-97af78bc202c-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-de1784b4-54ed-409d-928f-a00cf81187ca.html" id="module1-de1784b4-54ed-409d-928f-a00cf81187ca.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="hand-added-new-module-f00add38-8daf-4632-b833-a48373fa4ac8.html" id="hand-added-new-module-f00add38-8daf-4632-b833-a48373fa4ac8.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-de1784b4-54ed-409d-928f-a00cf81187ca.html"></itemref></spine>
 </package>
