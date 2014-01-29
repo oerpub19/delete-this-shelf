@@ -9,6 +9,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  <item href="something-new-2b7f86e5-cd62-4d15-b7a3-de76aba394b0.html" id="something-new-2b7f86e5-cd62-4d15-b7a3-de76aba394b0.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <item href="something-new-2b7f86e5-cd62-4d15-b7a3-de76aba394b0.html" id="something-new-2b7f86e5-cd62-4d15-b7a3-de76aba394b0.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="a-new-book-4373c12c-1e40-45f4-8633-0a4695660936-nav.html" id="a-new-book-4373c12c-1e40-45f4-8633-0a4695660936-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-19388571-b274-4803-a526-77cc36fdbe59.html" id="module1-19388571-b274-4803-a526-77cc36fdbe59.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="something-new-2b7f86e5-cd62-4d15-b7a3-de76aba394b0.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
 </package>
